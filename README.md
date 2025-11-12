@@ -14,7 +14,6 @@ This Tableau project visualizes HR data generated synthetically in Python to sim
 - **Tableau** for visualization and interactive dashboarding  
 
 ### Screenshot  
-![Dashboard Preview](HR_Dashboard.png)
 [[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/nabanita.dutta/viz/HRWorkforceDashboard)](https://public.tableau.com/app/profile/nabanita.dutta2249/viz/HR_Workforce_Insights_Dashboard/HRWorkforceInsightsDashboard?publish=yes)
 
 ### Author  
